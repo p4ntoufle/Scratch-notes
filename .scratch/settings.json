@@ -1,0 +1,22 @@
+{
+  "theme": {
+    "mode": "dark",
+    "customLightColors": null,
+    "customDarkColors": null
+  },
+  "editorFont": {
+    "baseFontFamily": "system-sans",
+    "baseFontSize": 18.0,
+    "boldWeight": 700,
+    "lineHeight": 1.4
+  },
+  "gitEnabled": true,
+  "pinnedNoteIds": null,
+  "textDirection": "auto",
+  "editorWidth": "wide",
+  "defaultNoteName": null,
+  "interfaceZoom": 1.1,
+  "customEditorWidthPx": null,
+  "ollamaModel": null,
+  "foldersEnabled": true
+}
