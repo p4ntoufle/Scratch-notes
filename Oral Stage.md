@@ -15,3 +15,7 @@ For the main project, the implementation of an external company catalog, we star
 It was kind of better since they started answering much faster than last time even though they slowed down for no apparent reason in the end of the internship, causing management issues and forced us to give a sort of second version that only implements the catalog import on the website and a not finished purchase handle feature
 
 To conclude working on this project was a kind of great experience since I had to work and deliver a solution to the tutor for a real useful goal, despite the fact that we couldn't finished it I had to work on a project with a team and all that was kind of valuable for my personal experience
+
+ 
+
+Eaf,ea
