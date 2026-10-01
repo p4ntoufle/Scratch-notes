@@ -7,16 +7,25 @@
   "editorFont": {
     "baseFontFamily": "system-sans",
     "baseFontSize": 18.0,
-    "boldWeight": 700,
-    "lineHeight": 1.4
+    "boldWeight": 600,
+    "lineHeight": 1.5
   },
   "gitEnabled": true,
-  "pinnedNoteIds": null,
+  "pinnedNoteIds": [],
   "textDirection": "auto",
-  "editorWidth": "wide",
-  "defaultNoteName": null,
+  "editorWidth": "custom",
+  "defaultNoteName": "{date} — Untitled",
   "interfaceZoom": 1.1,
-  "customEditorWidthPx": null,
+  "customEditorWidthPx": 963,
   "ollamaModel": null,
-  "foldersEnabled": true
+  "foldersEnabled": true,
+  "ignoredPatterns": null,
+  "customColorsLight": null,
+  "customColorsDark": {
+    "border": "rgba(101, 237, 252, 0.07)",
+    "accent": "#298acb",
+    "text-muted": "#798b92",
+    "selection": "rgba(113, 226, 238, 0.35)",
+    "text": "#b8d9ea"
+  }
 }
